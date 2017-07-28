@@ -1,0 +1,4 @@
+1. Import the Project into Eclipse
+2. Download the latest chrome driver here : https://chromedriver.storage.googleapis.com/index.html?path=2.29/
+3. Unzip the file and copy its location to AbstractWebDriverTest.java
+4. Right click the testng suite and run it
